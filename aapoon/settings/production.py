@@ -6,8 +6,8 @@ SECRET_KEY = '!r-q65&abt%x7zdfl463_b!v1md6)um6kv@vo)_t#s0))aa0_@'
 
 
 
-AWS_S3_BUCKET_NAME = 'zappa-a8pgot5be'
-AWS_S3_BUCKET_NAME_STATIC = 'zappa-a8pgot5be'
+AWS_S3_BUCKET_NAME = ''
+AWS_S3_BUCKET_NAME_STATIC = ''
 
 DATABASES = {
     'default': {
@@ -42,9 +42,9 @@ EMAIL_HOST = 'email-smtp.us-east-1.amazonaws.com'
 
 EMAIL_PORT = 587
 
-EMAIL_HOST_USER = 'AKIAJPSJZGQDB6C66F7A'
+EMAIL_HOST_USER = ''
 
-EMAIL_HOST_PASSWORD = 'AotGAAbX6wuOaKL4LUkAFWI8IKCpQqfGlpgSAY5Nu0PO'
+EMAIL_HOST_PASSWORD = ''
 
 DEFAULT_FROM_EMAIL = 'admin@aapoon.com'
 
